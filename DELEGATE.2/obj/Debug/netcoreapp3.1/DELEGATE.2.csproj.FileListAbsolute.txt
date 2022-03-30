@@ -1,0 +1,17 @@
+C:\Users\TOSHIBA\Desktop\DELEGATE.2\DELEGATE.2\obj\Debug\netcoreapp3.1\DELEGATE.2.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\DELEGATE.2\DELEGATE.2\obj\Debug\netcoreapp3.1\DELEGATE.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\DELEGATE.2\DELEGATE.2\obj\Debug\netcoreapp3.1\DELEGATE.2.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\DELEGATE.2\DELEGATE.2\obj\Debug\netcoreapp3.1\DELEGATE.2.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\DELEGATE.2\DELEGATE.2\obj\Debug\netcoreapp3.1\DELEGATE.2.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\DELEGATE.2\DELEGATE.2\bin\Debug\netcoreapp3.1\DELEGATE.2.exe
+C:\Users\TOSHIBA\Desktop\DELEGATE.2\DELEGATE.2\bin\Debug\netcoreapp3.1\DELEGATE.2.deps.json
+C:\Users\TOSHIBA\Desktop\DELEGATE.2\DELEGATE.2\bin\Debug\netcoreapp3.1\DELEGATE.2.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\DELEGATE.2\DELEGATE.2\bin\Debug\netcoreapp3.1\DELEGATE.2.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\DELEGATE.2\DELEGATE.2\bin\Debug\netcoreapp3.1\DELEGATE.2.dll
+C:\Users\TOSHIBA\Desktop\DELEGATE.2\DELEGATE.2\bin\Debug\netcoreapp3.1\DELEGATE.2.pdb
+C:\Users\TOSHIBA\Desktop\DELEGATE.2\DELEGATE.2\bin\Debug\netcoreapp3.1\Utils.dll
+C:\Users\TOSHIBA\Desktop\DELEGATE.2\DELEGATE.2\bin\Debug\netcoreapp3.1\Utils.pdb
+C:\Users\TOSHIBA\Desktop\DELEGATE.2\DELEGATE.2\obj\Debug\netcoreapp3.1\DELEGATE.2.csproj.CopyComplete
+C:\Users\TOSHIBA\Desktop\DELEGATE.2\DELEGATE.2\obj\Debug\netcoreapp3.1\DELEGATE.2.dll
+C:\Users\TOSHIBA\Desktop\DELEGATE.2\DELEGATE.2\obj\Debug\netcoreapp3.1\DELEGATE.2.pdb
+C:\Users\TOSHIBA\Desktop\DELEGATE.2\DELEGATE.2\obj\Debug\netcoreapp3.1\DELEGATE.2.genruntimeconfig.cache
