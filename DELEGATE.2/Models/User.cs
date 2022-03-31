@@ -24,7 +24,7 @@ namespace DELEGATE._2.Models
         }
         public void ShowInfo()
         {
-            Console.WriteLine($"UserName:{UserName} - Email:{Email} - Role:{Role}");
+            Console.WriteLine($"Id:{Id} -UserName:{UserName} - Email:{Email} - Role:{Role}");
         }
       
     }
