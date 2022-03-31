@@ -9,7 +9,7 @@ namespace DELEGATE._2.Models
     internal class Library:IEntity
     {
         public int BookLimit { get; set; }
-        private static int _id;
+        public int _id;
         public int Id { get;  }
 
         private List<Book> _books;

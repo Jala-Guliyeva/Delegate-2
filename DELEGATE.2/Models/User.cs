@@ -8,7 +8,7 @@ namespace DELEGATE._2.Models
 {
     internal class User:IEntity
     {
-        private static int _id;
+        public int _id;
         public int Id { get; }
         public Role Role { get; set; }
         public string UserName { get; set; }
