@@ -38,33 +38,24 @@ namespace DELEGATE._2
             Console.WriteLine("6. Filter by page count ");
             Console.WriteLine("0. Quit ");
 
-            switch ("1")
+            string selection = Console.ReadLine();
+
+
+            switch (selection)
             {
+                case "1":
+
+                    Console.WriteLine(Book.AddBook());
+                    break;
+
+                case "2":
+
+                    Console.WriteLine(Book.GetBookById());
+                    break;
+
                 default:
-            }
-            switch ("2")
-            {
-                default:
-            }
-            switch ("3")
-            {
-                default:
-            }
-            switch ("4")
-            {
-                default:
-            }
-            switch ("5")
-            {
-                default:
-            }
-            switch ("6")
-            {
-                default:
-            }
-            switch ("0")
-            {
-                default:
+                    Console.WriteLine("Not found");
+                    break;
             }
 
 
