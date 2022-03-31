@@ -52,6 +52,28 @@ namespace DELEGATE._2
 
                     Console.WriteLine(Book.GetBookById());
                     break;
+                case "3":
+
+                    Console.WriteLine(Book.());
+                    break;
+
+                case "4":
+
+                    Console.WriteLine(Book.());
+                    break;
+
+                case "5":
+
+                    Console.WriteLine(Book.());
+                    break;
+
+                case "6":
+
+                    Console.WriteLine(Book.());
+                    break;
+
+                case "0":
+
 
                 default:
                     Console.WriteLine("Not found");
