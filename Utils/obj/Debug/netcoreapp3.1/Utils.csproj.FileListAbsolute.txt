@@ -8,3 +8,13 @@ C:\Users\TOSHIBA\Desktop\DELEGATE.2\Utils\obj\Debug\netcoreapp3.1\Utils.Assembly
 C:\Users\TOSHIBA\Desktop\DELEGATE.2\Utils\obj\Debug\netcoreapp3.1\Utils.csproj.CoreCompileInputs.cache
 C:\Users\TOSHIBA\Desktop\DELEGATE.2\Utils\obj\Debug\netcoreapp3.1\Utils.dll
 C:\Users\TOSHIBA\Desktop\DELEGATE.2\Utils\obj\Debug\netcoreapp3.1\Utils.pdb
+C:\Users\tu7knjupn\Desktop\Delegate-2\Utils\bin\Debug\netcoreapp3.1\Utils.deps.json
+C:\Users\tu7knjupn\Desktop\Delegate-2\Utils\bin\Debug\netcoreapp3.1\Utils.dll
+C:\Users\tu7knjupn\Desktop\Delegate-2\Utils\bin\Debug\netcoreapp3.1\Utils.pdb
+C:\Users\tu7knjupn\Desktop\Delegate-2\Utils\obj\Debug\netcoreapp3.1\Utils.csproj.AssemblyReference.cache
+C:\Users\tu7knjupn\Desktop\Delegate-2\Utils\obj\Debug\netcoreapp3.1\Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7knjupn\Desktop\Delegate-2\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfoInputs.cache
+C:\Users\tu7knjupn\Desktop\Delegate-2\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfo.cs
+C:\Users\tu7knjupn\Desktop\Delegate-2\Utils\obj\Debug\netcoreapp3.1\Utils.csproj.CoreCompileInputs.cache
+C:\Users\tu7knjupn\Desktop\Delegate-2\Utils\obj\Debug\netcoreapp3.1\Utils.dll
+C:\Users\tu7knjupn\Desktop\Delegate-2\Utils\obj\Debug\netcoreapp3.1\Utils.pdb

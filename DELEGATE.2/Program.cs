@@ -1,5 +1,6 @@
 ﻿using DELEGATE._2.Models;
 using System;
+using Utils.Enums;
 
 namespace DELEGATE._2
 {
@@ -8,21 +9,25 @@ namespace DELEGATE._2
         static void Main(string[] args)
         {
 
-            User user = new User("Cinayet","quliyeva52@gmail.com",Utils.Enums.Role.Admin);
-            User user1 = new User("Ceza", "quliyev@gmail.com", Utils.Enums.Role.Admin);
-            User user2= new User("Sehr", "azizoff@gmail.com", Utils.Enums.Role.Admin);
-            user.ShowInfo();
+            Console.WriteLine("Username");
+            string username=Console.ReadLine();
+            Console.WriteLine("Email");
+            string email=Console.ReadLine();
+
+            
             byte Role;
             bool isNum;
             do
             {
                 Console.WriteLine("Role(1.Admin 2.Member):");
-                string role = Console.ReadLine();
-                isNum = byte.TryParse(role, out Role);
+                string roleStr = Console.ReadLine();
+                isNum = byte.TryParse(roleStr, out Role);
 
-            } while (!isNum || Enum.IsDefined(typeof(string), Role));
+            } while (!isNum || !Enum.IsDefined(typeof(Role), role));
 
-            Library library = new Library(2);
+            User user = new User(username, email, (Role)role);
+            Library library = new Library(4);
+           
             
 
            
@@ -50,26 +55,26 @@ namespace DELEGATE._2
 
                 case "2":
 
-                    Console.WriteLine(Book.GetBookById());
+                    
                     break;
                 case "3":
 
-                    Console.WriteLine(Book.());
+                    
                     break;
 
                 case "4":
 
-                    Console.WriteLine(Book.());
+                    
                     break;
 
                 case "5":
 
-                    Console.WriteLine(Book.());
+                   
                     break;
 
                 case "6":
 
-                    Console.WriteLine(Book.());
+                   
                     break;
 
                 case "0":
