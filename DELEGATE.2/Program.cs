@@ -45,7 +45,7 @@ namespace DELEGATE._2
             {
                 case "1":
 
-                    Console.WriteLine(Book.AddBook());
+                   
                     break;
 
                 case "2":

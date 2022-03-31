@@ -18,6 +18,7 @@ namespace DELEGATE._2.Models
             _id++;
            Id = _id;
             BookLimit = bookLimit;
+            _books = new List<Book>();
           
         }
 
