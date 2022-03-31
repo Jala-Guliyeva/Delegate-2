@@ -11,7 +11,7 @@ namespace DELEGATE._2.Models
         public string AuthorName { get; set; }
         public int PageCount { get; set; }
         public bool IsDeleted { get; set; }
-        public int _id;
+        private static int _id;
         public int Id { get;  }
 
         public Book(string name, string authorname, int pagecount)
