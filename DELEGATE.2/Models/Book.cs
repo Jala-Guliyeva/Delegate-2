@@ -22,7 +22,7 @@ namespace DELEGATE._2.Models
             AuthorName = authorname;
             PageCount = pagecount;
         }
-        public void Showinfo()
+        public void ShowInfo()
         {
             Console.WriteLine($"Id:{Id} - Name:{Name} - AuthorName:{AuthorName} - PageCount:{PageCount}");
         }

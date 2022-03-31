@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\tu7knjupn\\.nuget\\packages\\": {}
+    "C:\\Users\\TOSHIBA\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tu7knjupn\\Desktop\\Delegate-2\\Utils\\Utils.csproj",
+      "projectUniqueName": "C:\\Users\\TOSHIBA\\Desktop\\Delegate-2\\Utils\\Utils.csproj",
       "projectName": "Utils",
-      "projectPath": "C:\\Users\\tu7knjupn\\Desktop\\Delegate-2\\Utils\\Utils.csproj",
-      "packagesPath": "C:\\Users\\tu7knjupn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tu7knjupn\\Desktop\\Delegate-2\\Utils\\obj\\",
+      "projectPath": "C:\\Users\\TOSHIBA\\Desktop\\Delegate-2\\Utils\\Utils.csproj",
+      "packagesPath": "C:\\Users\\TOSHIBA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\TOSHIBA\\Desktop\\Delegate-2\\Utils\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tu7knjupn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\TOSHIBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

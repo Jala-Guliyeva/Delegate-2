@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tu7knjupn\\Desktop\\Delegate-2\\DELEGATE.2\\DELEGATE.2.csproj": {}
+    "C:\\Users\\TOSHIBA\\Desktop\\Delegate-2\\DELEGATE.2\\DELEGATE.2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tu7knjupn\\Desktop\\Delegate-2\\DELEGATE.2\\DELEGATE.2.csproj": {
+    "C:\\Users\\TOSHIBA\\Desktop\\Delegate-2\\DELEGATE.2\\DELEGATE.2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tu7knjupn\\Desktop\\Delegate-2\\DELEGATE.2\\DELEGATE.2.csproj",
+        "projectUniqueName": "C:\\Users\\TOSHIBA\\Desktop\\Delegate-2\\DELEGATE.2\\DELEGATE.2.csproj",
         "projectName": "DELEGATE.2",
-        "projectPath": "C:\\Users\\tu7knjupn\\Desktop\\Delegate-2\\DELEGATE.2\\DELEGATE.2.csproj",
-        "packagesPath": "C:\\Users\\tu7knjupn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tu7knjupn\\Desktop\\Delegate-2\\DELEGATE.2\\obj\\",
+        "projectPath": "C:\\Users\\TOSHIBA\\Desktop\\Delegate-2\\DELEGATE.2\\DELEGATE.2.csproj",
+        "packagesPath": "C:\\Users\\TOSHIBA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TOSHIBA\\Desktop\\Delegate-2\\DELEGATE.2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tu7knjupn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TOSHIBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\tu7knjupn\\Desktop\\Delegate-2\\Utils\\Utils.csproj": {
-                "projectPath": "C:\\Users\\tu7knjupn\\Desktop\\Delegate-2\\Utils\\Utils.csproj"
+              "C:\\Users\\TOSHIBA\\Desktop\\Delegate-2\\Utils\\Utils.csproj": {
+                "projectPath": "C:\\Users\\TOSHIBA\\Desktop\\Delegate-2\\Utils\\Utils.csproj"
               }
             }
           }
@@ -62,17 +62,17 @@
         }
       }
     },
-    "C:\\Users\\tu7knjupn\\Desktop\\Delegate-2\\Utils\\Utils.csproj": {
+    "C:\\Users\\TOSHIBA\\Desktop\\Delegate-2\\Utils\\Utils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tu7knjupn\\Desktop\\Delegate-2\\Utils\\Utils.csproj",
+        "projectUniqueName": "C:\\Users\\TOSHIBA\\Desktop\\Delegate-2\\Utils\\Utils.csproj",
         "projectName": "Utils",
-        "projectPath": "C:\\Users\\tu7knjupn\\Desktop\\Delegate-2\\Utils\\Utils.csproj",
-        "packagesPath": "C:\\Users\\tu7knjupn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tu7knjupn\\Desktop\\Delegate-2\\Utils\\obj\\",
+        "projectPath": "C:\\Users\\TOSHIBA\\Desktop\\Delegate-2\\Utils\\Utils.csproj",
+        "packagesPath": "C:\\Users\\TOSHIBA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TOSHIBA\\Desktop\\Delegate-2\\Utils\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tu7knjupn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TOSHIBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
