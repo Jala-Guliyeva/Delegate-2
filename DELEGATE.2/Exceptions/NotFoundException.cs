@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DELEGATE._2.Exceptions
 {
-    internal class NotFoundException:Exception
+    public class NotFoundException:Exception
     {
         public NotFoundException(string message):base (message)
         {
